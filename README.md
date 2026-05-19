@@ -11,4 +11,4 @@ v1 = { 1, 2, 3, ...}
 v2 = { 10, 9, 8, ...}
 
 
-3.A partir de um vetor informado pelo usuário de 10 números inteiros, calcule quantos números são pares e quantos são ímpares. (obrigatório fazer o calculo em um for separado)
+3. A partir de um vetor informado pelo usuário de 10 números inteiros, calcule quantos números são pares e quantos são ímpares. (obrigatório fazer o calculo em um for separado)
